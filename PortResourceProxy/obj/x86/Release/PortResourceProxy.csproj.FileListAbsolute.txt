@@ -1,0 +1,15 @@
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\bin\Release\PortResourceProxy.exe
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\bin\Release\PortResourceProxy.exe.config
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Release\ResolveAssemblyReference.cache
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Release\PortResourceProxy.PortResourceProxyMonitor.resources
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Release\PortResourceProxy.Properties.Resources.resources
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Release\GenerateResource.read.1.tlog
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Release\GenerateResource.write.1.tlog
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Release\PortResourceProxy.exe
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Release\PortResourceProxy.pdb
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\bin\Release\PortResourceProxy.pdb
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\bin\Release\PortResourceProxy.exe.manifest
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\bin\Release\PortResourceProxy.application
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Release\PortResourceProxy.TrustInfo.xml
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Release\PortResourceProxy.exe.manifest
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Release\PortResourceProxy.application

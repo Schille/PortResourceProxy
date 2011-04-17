@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Proxy>
+  <ResourceMap>
+    <Path>
+      <source>test/</source>
+      <destination>http://www.test.de</destination>
+    </Path>
+    <Path>
+      <source>gql/</source>
+      <destination>http://www.google.de/</destination>
+    </Path>
+  </ResourceMap>
+</Proxy>

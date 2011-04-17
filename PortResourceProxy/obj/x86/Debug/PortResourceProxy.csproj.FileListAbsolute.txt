@@ -1,0 +1,10 @@
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\bin\Debug\PortResourceProxy.exe.config
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\bin\Debug\PortResourceProxy.exe
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\bin\Debug\PortResourceProxy.pdb
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Debug\PortResourceProxy.PortResourceProxyMonitor.resources
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Debug\PortResourceProxy.Properties.Resources.resources
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Debug\PortResourceProxy.exe
+H:\sones\Local_Projects\PortResourceProxy\PortResourceProxy\obj\x86\Debug\PortResourceProxy.pdb

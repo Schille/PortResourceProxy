@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Proxy>
+  <ResourceMap>
+    	<Path>
+      <source>gql</source>
+      <destination>http://localhost:9975/gql</destination>
+    </Path>
+	<Path>
+      <source>webshell</source>
+      <destination>http://localhost:9975/webshell</destination>
+    </Path>
+	<Path>
+      <source>webadmintools</source>
+      <destination>http://127.0.0.1:8888/AdminToolsletContainer.html</destination>
+    </Path>
+	<Path>
+      <source>de.sones.gwt.AdminToolsletContainer/</source>
+      <destination>http://127.0.0.1:8888/de.sones.gwt.AdminToolsletContainer/</destination>
+    </Path>
+	<Path>
+      <source>AdminToolsletContainer.css</source>
+      <destination>http://127.0.0.1:8888/AdminToolsletContainer.css</destination>
+    </Path>
+	</ResourceMap>
+</Proxy>
