@@ -5,7 +5,7 @@ This is a small local Proxy. It was born from the idea to bypass the "Same-Origi
 all services that runs on different ports (may for AJAX request purposes).
 
 Features
-	. able to proxy several port-services under on port
+	. able to proxy several port-services under one port
 	. free configurable source - destination "ResourceMap.xml" to set the http/resource pattern
 	. manual start and stop of the proxy
 	. console-like output of the status and errors
